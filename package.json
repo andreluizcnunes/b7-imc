@@ -1,5 +1,6 @@
 {
   "name": "calc_imc",
+  "homepage": "https://andreluizcnunes.github.io/b7-imc",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
